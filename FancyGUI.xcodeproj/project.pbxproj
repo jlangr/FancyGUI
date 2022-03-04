@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9CC0D8EB27D28F32003F2CEA /* MySingletonViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC0D8EA27D28F32003F2CEA /* MySingletonViewControllerTests.swift */; };
+		9CC0D8ED27D292B2003F2CEA /* OverrideViewControllerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC0D8EC27D292B2003F2CEA /* OverrideViewControllerTests.swift */; };
 		AC2DE98027D11F62006D4886 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DE97F27D11F62006D4886 /* AppDelegate.swift */; };
 		AC2DE98227D11F62006D4886 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DE98127D11F62006D4886 /* SceneDelegate.swift */; };
 		AC2DE98427D11F62006D4886 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC2DE98327D11F62006D4886 /* ViewController.swift */; };
@@ -52,6 +53,7 @@
 
 /* Begin PBXFileReference section */
 		9CC0D8EA27D28F32003F2CEA /* MySingletonViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySingletonViewControllerTests.swift; sourceTree = "<group>"; };
+		9CC0D8EC27D292B2003F2CEA /* OverrideViewControllerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverrideViewControllerTests.swift; sourceTree = "<group>"; };
 		AC2DE97C27D11F62006D4886 /* FancyGUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FancyGUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2DE97F27D11F62006D4886 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AC2DE98127D11F62006D4886 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 				AC2DE99627D11F67006D4886 /* FancyGUITests.swift */,
 				CF6A699D27D1671A00CC14CE /* TestingAppDelegate.swift */,
 				9CC0D8EA27D28F32003F2CEA /* MySingletonViewControllerTests.swift */,
+				9CC0D8EC27D292B2003F2CEA /* OverrideViewControllerTests.swift */,
 			);
 			path = FancyGUITests;
 			sourceTree = "<group>";
@@ -328,6 +331,7 @@
 			files = (
 				AC2DE99727D11F67006D4886 /* FancyGUITests.swift in Sources */,
 				9CC0D8EB27D28F32003F2CEA /* MySingletonViewControllerTests.swift in Sources */,
+				9CC0D8ED27D292B2003F2CEA /* OverrideViewControllerTests.swift in Sources */,
 				CF6A699E27D1671A00CC14CE /* TestingAppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
